@@ -2,6 +2,8 @@
 ### He is a student at ACS
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Labrador_Retriever_portrait.jpg/1200px-Labrador_Retriever_portrait.jpg)
 ***This is a Emphasis***
+*This is italic*
+[![https://cdn-0001.qstv.on.epicgames.com/unbYIutYhrjviDwhwL/image/landscape_comp.jpeg]()](https://www.youtube.com/watch?v=7ESeQBeikKs)
 
 
 
@@ -16,4 +18,4 @@
 <!---
 oijfssuhdesfjl/oijfssuhdesfjl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---
