@@ -3,7 +3,8 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Labrador_Retriever_portrait.jpg/1200px-Labrador_Retriever_portrait.jpg)
 ***This is a Emphasis***
 *This is italic*
-[![https://cdn-0001.qstv.on.epicgames.com/unbYIutYhrjviDwhwL/image/landscape_comp.jpeg]()](https://www.youtube.com/watch?v=7ESeQBeikKs)
+[![Alt text](https://cdn-0001.qstv.on.epicgames.com/unbYIutYhrjviDwhwL/image/landscape_comp.jpeg)](https://www.youtube.com/watch?v=7ESeQBeikKs)
+If you click this picture of mr beast iy will send you to a youtube video.
 
 
 
