@@ -4,7 +4,7 @@
 ***This is a Emphasis***
 *This is italic*
 [![Alt text](https://cdn-0001.qstv.on.epicgames.com/unbYIutYhrjviDwhwL/image/landscape_comp.jpeg)](https://www.youtube.com/watch?v=7ESeQBeikKs)
-If you click this picture of mr beast iy will send you to a youtube video.
+If you click on this picture of mr beast it will send you to a youtube video of mrbeast.
 
 - This is a list 1
 - Number 2 of the list
